@@ -1,0 +1,44 @@
+{
+  "_id": "6718902a07b28d3dd8e5e921",
+  "userAnswers": [
+    {
+      "_id": "6718902a07b28d3dd8e5e922",
+      "questionId": 1,
+      "selectedOptionIndex": 0,
+      "isCorrect": false,
+      "correctAnswerIndex": 2
+    },
+    {
+      "_id": "6718902a07b28d3dd8e5e923",
+      "questionId": 2,
+      "selectedOptionIndex": 1,
+      "isCorrect": true,
+      "correctAnswerIndex": 1
+    },
+    {
+      "_id": "6718902a07b28d3dd8e5e924",
+      "questionId": 3,
+      "selectedOptionIndex": 1,
+      "isCorrect": false,
+      "correctAnswerIndex": 2
+    },
+    {
+      "_id": "6718902a07b28d3dd8e5e925",
+      "questionId": 4,
+      "selectedOptionIndex": 2,
+      "isCorrect": false,
+      "correctAnswerIndex": 1
+    },
+    {
+      "_id": "6718902a07b28d3dd8e5e926",
+      "questionId": 5,
+      "selectedOptionIndex": 2,
+      "isCorrect": true,
+      "correctAnswerIndex": 2
+    }
+  ],
+  "score": 2,
+  "total": 5,
+  "createdAt": "2024-10-23T05:56:58.838Z",
+  "__v": 0
+}
